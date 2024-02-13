@@ -33,12 +33,6 @@ variable "managedby" {
   description = "ManagedBy, eg 'opsstation'."
 }
 
-variable "repository" {
-  type        = string
-  default     = "https://github.com/opsstation/terraform-digitalocean-vpc"
-  description = "Terraform DigitalOcean current module repo"
-}
-
 variable "ip_range" {
   type        = string
   default     = ""
