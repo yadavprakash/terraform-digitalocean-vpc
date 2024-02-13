@@ -91,7 +91,6 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 | <a name="input_managedby"></a> [managedby](#input\_managedby) | ManagedBy, eg 'opsstation'. | `string` | `"opsstation"` | no |
 | <a name="input_name"></a> [name](#input\_name) | A name for the VPC. | `string` | `""` | no |
 | <a name="input_region"></a> [region](#input\_region) | The DigitalOcean region slug for the VPC's location. | `string` | `""` | no |
-| <a name="input_repository"></a> [repository](#input\_repository) | Terraform DigitalOcean current module repo | `string` | `"https://github.com/opsstation/terraform-digitalocean-vpc"` | no |
 
 ## Outputs
 
