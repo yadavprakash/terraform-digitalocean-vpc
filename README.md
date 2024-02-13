@@ -25,6 +25,7 @@ module "vpc" {
   ip_range    = "10.10.0.0/24"
 
 }
+
 ```
 Please ensure you specify the correct 'source' path for the module.
 
