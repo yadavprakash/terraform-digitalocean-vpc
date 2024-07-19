@@ -71,8 +71,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 | Name | Source | Version |
 |------|--------|---------|
-| <a name="module_labels"></a> [labels](#module\_labels) | git::https://github.com/yadavprakash/terraform-digitalocean-labels.git | v1.0.0 |
-
+| <a name="module_labels"></a> [labels](#module\_labels) | git::https://github.com/yadavprakash/terraform-digitalocean-labels.git | master |
 ## Resources
 
 | Name | Type |
