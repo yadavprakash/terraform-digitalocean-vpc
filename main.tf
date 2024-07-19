@@ -2,7 +2,7 @@
 #Module      : LABEL
 
 module "labels" {
-  source      = "git::https://github.com/opsstation/terraform-digitalocean-labels.git?ref=v1.0.0"
+  source      = "git::https://github.com/yadavprakash/terraform-digitalocean-labels.git?ref=master"
   name        = var.name
   environment = var.environment
   label_order = var.label_order
